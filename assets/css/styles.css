@@ -373,7 +373,6 @@ body.dark-theme {
 .skills__box {
   display: flex;
   justify-content: center;
-  flex-wrap: nowrap;
   column-gap: 3rem;
 }
 
