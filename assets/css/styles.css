@@ -173,7 +173,6 @@ body.dark-theme {
 }
 
 .profile__border {
-  border: 3.5px solid var(--first-color);
   justify-self: center;
   width: 115px;
   height: 115px;
